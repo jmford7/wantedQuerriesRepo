@@ -1,0 +1,2 @@
+# wantedQuerriesRepo
+Wanted Queries Practice
